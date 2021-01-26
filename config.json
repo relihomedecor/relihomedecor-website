@@ -1,18 +1,8 @@
 {
-  "base_url": "https://wutali-nextjs-netlify-blog.netlify.app",
-  "site_title": "Next.js Netlify Blog",
-  "site_description": "Next.js blog template for Netlify",
-  "site_keywords": [
-    {
-      "keyword": "Next.js"
-    },
-    {
-      "keyword": "Netlify"
-    },
-    {
-      "keyword": "React"
-    }
-  ],
+  "base_url": "https://relihomedecor.netlify.app",
+  "site_title": "Reliable home decor",
+  "site_description": "We are relihomedecor",
+  "site_keywords": [],
   "posts_per_page": 5,
   "twitter_account": "@relihomedecor",
   "github_account": "relihomedecor"
