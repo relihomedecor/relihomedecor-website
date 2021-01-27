@@ -2,7 +2,9 @@
   "base_url": "https://relihomedecor.netlify.app",
   "site_title": "Reliable home decor",
   "site_description": "We are relihomedecor",
-  "site_keywords": [],
+  "site_keywords": [
+    "home"
+  ],
   "posts_per_page": 5,
   "twitter_account": "@relihomedecor",
   "github_account": "relihomedecor"
