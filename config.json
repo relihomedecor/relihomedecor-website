@@ -3,7 +3,9 @@
   "site_title": "Reliable home decor",
   "site_description": "We are relihomedecor",
   "site_keywords": [
-    "home"
+    {
+      "keyword": "home"
+    }
   ],
   "posts_per_page": 5,
   "twitter_account": "@relihomedecor",
